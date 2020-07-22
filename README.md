@@ -4,3 +4,5 @@ In this repository, Machine Learning is employed in R to perform Topic Modelling
 
 ![wordcloud](RplotTopic4WordCloud.png)
 ![topicWords](topicWords.png)
+
+In this Github repository, I include the data used in the file MovieStories.utf8.txt and the program Topic.R
